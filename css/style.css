@@ -80,9 +80,9 @@ header .logo {
     float: left;
     width: 160px;
     height: 40px;
-    background-image: url(../images/logo1.jfif);
-    background-position: center;
+    color: #fff;
     background-size: 100% auto;
+    cursor: pointer;
 }
 
 header nav.desktop-menu ul {
